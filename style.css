@@ -1,0 +1,19 @@
+.dbox{
+    border:1px lightgrey solid;
+}
+
+.bottomimg{
+  background-color: rgba(0,0,0,0.5);
+
+}
+
+@media (max-width: 767.98px) { 
+  .fontresize {
+    font-size: 5px;
+  }
+  .padchange{
+    padding-bottom: 10px;
+  }
+  
+}
+
